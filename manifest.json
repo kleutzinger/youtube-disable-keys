@@ -13,8 +13,6 @@
 		"default_icon": "/icons/icon.png"
 	},
 	"permissions": [
-		// "tabs",
-		// "contextMenus",
 		"*://*.youtube.com/*"
 	],
 	"content_scripts": [
